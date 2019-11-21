@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>idInAppStore</key>
+  <string>1458339026</string>
+  <key>homepage</key>
+  <string>https://OneSecure.github.io</string>
+  <key>privacyPolicy</key>
+  <string>https://github.com/OneSecure/appsettings/blob/master/chinese-converter-privacy.md</string>
+</dict>
+</plist>
