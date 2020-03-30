@@ -2,12 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>showPrivateItems</key>
-	<false/>
-	<key>freeUseMinCount</key>
-	<real>16</real>	
-	<key>freeUseMaxCount</key>
-	<real>32</real>	
+  <key>showPrivateItems</key>
+  <false/>
+  <key>freeUseMinCount</key>
+  <real>16</real>
+  <key>freeUseMaxCount</key>
+  <real>32</real>
   <key>homepage</key>
   <string>https://onesecure.github.io/onesecure/</string>
   <key>privacyPolicy</key>
