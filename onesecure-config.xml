@@ -4,6 +4,8 @@
 <dict>
 	<key>showPrivateItems</key>
 	<false/>
+	<key>freeUseMaxCount</key>
+	<real>32</real>	
   <key>homepage</key>
   <string>https://onesecure.github.io/onesecure/</string>
   <key>privacyPolicy</key>
