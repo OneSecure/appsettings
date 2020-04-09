@@ -12,7 +12,7 @@
   <string>https://onesecure.github.io/onesecure/</string>
   <key>privacyPolicy</key>
   <string>https://onesecure.github.io/onesecure/onesecure-privacy.html</string>
-  <key>subscriptionInfo</key>
-  <string>https://onesecure.github.io/onesecure/subscription.html</string>
+  <key>eula</key>
+  <string>https://onesecure.github.io/onesecure/EULA.html</string>
 </dict>
 </plist>
